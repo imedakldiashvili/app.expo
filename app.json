@@ -13,8 +13,12 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "developmentClient": {
+      "silentLaunch": true
+    },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.imeda.kldiashvili.app.expo"
     },
     "android": {
       "adaptiveIcon": {
@@ -27,6 +31,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-dev-client"
+    ]
   }
 }
