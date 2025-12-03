@@ -34,6 +34,12 @@
     },
     "plugins": [
       "expo-dev-client"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "effd0bfe-b7df-45c9-8ca2-19874449af1f"
+      }
+    },
+    "owner": "imeda.kldiashvili"
   }
 }
