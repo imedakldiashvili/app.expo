@@ -1,12 +1,13 @@
 {
   "expo": {
-    "name": "app.expo",
-    "slug": "app.expo",
+    "name": "app expo",
+    "slug": "appexpo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
+    "scheme": "appexpo",
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
@@ -21,7 +22,8 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.imeda.kldiashvili.app.expo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
