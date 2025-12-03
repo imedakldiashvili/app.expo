@@ -219,6 +219,7 @@ export default function DelegatesScreen() {
   );
 }
 
+
 const styles = StyleSheet.create({
   scrollView: {
     flex: 1,
