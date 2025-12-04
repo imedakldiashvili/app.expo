@@ -9,7 +9,7 @@
       "channel": "development"
     },
     "preview": {
-      "developmentClient": true,
+      "developmentClient": false,
       "distribution": "internal",
       "channel": "preview",
       "android": {
